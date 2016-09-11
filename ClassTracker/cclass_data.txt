@@ -1,0 +1,30 @@
+______________________________________________________________
+
+---------------------- CLASS TRACKER--------------------------
+
+______________________________________________________________
+
+Student Name :: mike 
+Degree :: CPRE 
+Credits Required = 134 
+______________________________________________________________
+
+Course Name          :: Cpre 308
+ 
+Instructor           :: Vens
+ 
+Semster Completed    :: Fall 2015
+ 
+Grade                :: B 
+
+Class Type           :: Engr
+ 
+Credits              :: 4 
+
+Class Description    :: it was fun
+ 
+______________________________________________________________
+
+Total Credits Earned :: 4
+GPA :: 4.00
+END
