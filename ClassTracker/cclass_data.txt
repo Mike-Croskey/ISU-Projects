@@ -15,7 +15,7 @@ Instructor           :: Vens
  
 Semster Completed    :: Fall 2015
  
-Grade                :: B 
+Grade                :: A 
 
 Class Type           :: Engr
  
